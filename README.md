@@ -22,10 +22,6 @@ O projeto é um projeto Maven padrão. Para executá-lo a partir da linha de com
 
 Você também pode importar o projeto para sua IDE de escolha, assim como faria com qualquer projeto Maven. Leia mais sobre [como importar projetos Vaadin para diferentes IDEs](https://vaadin.com/docs/latest/guide/step-by-step/importing) (Eclipse, IntelliJ IDEA, NetBeans e VS Code).
 
-## Requisitos técnicos
-
-[Clique aqui para conferir](docs/tech.pdf).
-
 ## Contribuições
 
 Contribuições são bem-vindas! Se encontrar problemas ou tiver sugestões de melhoria, por favor, abra um problema neste repositório.
