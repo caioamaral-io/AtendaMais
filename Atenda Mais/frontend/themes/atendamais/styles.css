@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
 @import url("./main-layout.css");
 @import url("./views/registro-view.css");
+
 html {
+  font-family: 'Roboto', sans-serif;
   --lumo-base-color: rgb(43, 50, 90);
   --lumo-font-size: 1rem;
   --lumo-font-size-xxxl: 1.75rem;

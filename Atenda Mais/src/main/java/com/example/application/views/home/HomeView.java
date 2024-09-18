@@ -28,10 +28,8 @@ public class HomeView extends VerticalLayout {
     header.addClassNames(Margin.Top.XLARGE, Margin.Bottom.MEDIUM);
     add(header);
     add(
-      new Paragraph(
-        "Produto da disciplina de Projetos 2 no curso de Gestão de Tecnologia da Informação na Cesar School."
-      )
-    );
+        new Paragraph(
+            "Produto da disciplina de Projetos 3 no curso de Gestão de Tecnologia da Informação na Cesar School."));
 
     setSizeFull();
     setJustifyContentMode(JustifyContentMode.CENTER);
