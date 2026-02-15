@@ -26,13 +26,6 @@ Você também pode importar o projeto para sua IDE de escolha, assim como faria 
 
 Contribuições são bem-vindas! Se encontrar problemas ou tiver sugestões de melhoria, por favor, abra um problema neste repositório.
 
-## Desenvolvedores
-
-- mxs2@cesar.school
-- vrln2@cesar.school
-- jll@cesar.school
-- cjam@cesar.school
-
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
